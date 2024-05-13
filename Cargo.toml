@@ -9,7 +9,7 @@ readme = "README.md"
 
 [dependencies]
 pyo3 = {version = "0.17.1", features = ["extension-module", "abi3-py37"]}
-tokei = "12.1"
+tokei = "13.0.0-alpha.1"
 
 [lib]
 name = "pytokei"
