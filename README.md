@@ -8,6 +8,8 @@ Pytokei is a python binding to [tokei](https://github.com/XAMPPRocky/tokei):
 
 --- 
 
+> **Note**: This is a slightly modified version to be compatable with tokei 13.0.0-alpha.1.
+
 This wrapper allows to obtain the same reports directly from python.
 
 ```python
